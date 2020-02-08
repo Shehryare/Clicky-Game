@@ -1,62 +1,62 @@
 [
     {
         "id": 1,
-        "name": "Battlefield V",
-        "image": "./assets/images/battlefieldv.jpg"
+        "name": "Batman",
+        "image": "./assets/images/batman.png"
     },
     {
         "id": 2,
-        "name": "Fortnite",
-        "image": "./assets/images/fortnite.jpeg"
+        "name": "Superman",
+        "image": "./assets/images/Superman.png"
     },
     {
         "id": 3,
-        "name": "GTA V",
-        "image": "./assets/images/gtav.jpg"
+        "name": "Iron Man",
+        "image": "./assets/images/Ironman.jpg"
     },
     {
         "id": 4,
-        "name": "PUBG",
-        "image": "./assets/images/pubg.jpeg"
+        "name": "Spiderman",
+        "image": "./assets/images/Spiderman.jpg"
     },
     {
         "id": 5,
-        "name": "Tomb Raider",
-        "image": "./assets/images/TombRaider.jpg"
+        "name": "Wolverine",
+        "image": "./assets/images/Wolverine.jpg"
     },
     {
         "id": 6,
-        "name": "Red Dead Redemption 2",
-        "image": "./assets/images/rdr2.jpg"
+        "name": "Hulk",
+        "image": "./assets/images/Hulk.jpg"
     },
     {
         "id": 7,
         "name": "Pacman",
-        "image": "./assets/images/pacman.png"
+        "image": "./assets/images/pacman.jpg"
     },
     {
         "id": 8,
-        "name": "Contra",
-        "image": "./assets/images/contra.jpg"
+        "name": "Master Chief",
+        "image": "./assets/images/Master.png"
     },
     {
         "id": 9,
-        "name": "NFS MW",
-        "image": "./assets/images/NFSMW.jpg"
+        "name": "Thor",
+        "image": "./assets/images/Thor.jpg"
     },
     {
         "id": 10,
-        "name": "Prince of Persia",
-        "image": "./assets/images/pop.jpg"
+        "name": "Geralt of Rivia",
+        "image": "./assets/images/Witcher.jpeg"
     },
     {
         "id": 11,
-        "name": "Mario",
-        "image": "./assets/images/mario.jpg"
+        "name": "Captain America",
+        "image": "./assets/images/Captain.jpg"
     },
     {
         "id": 12,
-        "name": "Infamous Second Son",
-        "image": "./assets/images/InfamousSecondSon.jpg"
+        "name": "The Flash",
+        "image": "./assets/images/Flash.png"
     }
 ]
