@@ -5,7 +5,7 @@
     margin-right: 30px;
     padding: 180px;
     text-align: center;
-    color: red;
+    color: white;
     background-image: url("./background.jpeg");
     background-size: 300px 300px;
   }
@@ -15,5 +15,5 @@
 
   h2 {
     font-size: 3vw;
-    color: blue;
+    color: yellow;
   }
